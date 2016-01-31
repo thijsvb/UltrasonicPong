@@ -10,4 +10,3 @@ Simply move your hand (or anything else) up and down above the sensor to move yo
 
 ![Players](https://github.com/thijsvb/UltrasonicPong/blob/master/Pictures/Players0.jpg?raw=true)
 ![Players](https://github.com/thijsvb/UltrasonicPong/blob/master/Pictures/Players1.jpg?raw=true)
-# Fun for young and old!
